@@ -1,9 +1,9 @@
 # Ping_Connect_Web_App
 <div align="center">
 <img style="text-align:center" src="https://res.cloudinary.com/dkay6uocg/image/upload/v1688300852/logo-no-background_phu1yy.png" alt="Ping Connect" height=100 width=230>
-### "Express yourself and connect with the world on Ping Connect, where thoughts come alive!"
 </div>
 
+### "Express yourself and connect with the world on Ping Connect, where thoughts come alive!"
 ----------------
 
 > ### Demo
