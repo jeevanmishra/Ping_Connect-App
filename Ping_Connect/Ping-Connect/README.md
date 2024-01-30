@@ -1,24 +1,13 @@
+# Ping_Connect_Web_App
 <div align="center">
-
 <img style="text-align:center" src="https://res.cloudinary.com/dkay6uocg/image/upload/v1688300852/logo-no-background_phu1yy.png" alt="Ping Connect" height=100 width=230>
-
-### "Express yourself and connect with the world on Ping Connect, where thoughts come alive!"
-
 </div>
 
-
+### "Express yourself and connect with the world on Ping Connect, where thoughts come alive!"
 ----------------
 
 > ### Demo
->  https://www.loom.com/share/e1f4e2649e5544d0a5321e758d391a05?sid=d5e8dfcd-0ab0-4b62-8649-554e4ad93757
-
-
-### How to use on Local Machine:
-
-> 1. $  git clone https://github.com/PsKalsi19/Ping-Connect.git
-> 2. $  cd Ping-Connect
-> 3. $  npm install
-> 4. $ npm start
+> 
 
 > ### Features
 * Authentication
@@ -55,3 +44,4 @@
 * Headless UI
 * React Hot Toast
 * React Icons
+
