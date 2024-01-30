@@ -6,8 +6,8 @@
 ### "Express yourself and connect with the world on Ping Connect, where thoughts come alive!"
 ----------------
 
-> ### Demo
-> 
+> ### Demo 
+https://github.com/jeevanmishra/Ping_Connect-App/assets/123623554/45cf4769-e745-4fdf-ada5-87bcd591e012
 
 > ### Features
 * Authentication
