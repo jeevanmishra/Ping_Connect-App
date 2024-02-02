@@ -7,7 +7,7 @@
 ----------------
 
 > ### Demo 
-https://github.com/jeevanmishra/Ping_Connect-App/assets/123623554/45cf4769-e745-4fdf-ada5-87bcd591e012
+https://www.loom.com/share/b79f256d26b34736a5bf160a8487def6
 
 > ### Features
 * Authentication
